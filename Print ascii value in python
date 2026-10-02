@@ -1,0 +1,3 @@
+class Solution:
+    def asciiValue(self, ch):
+        return ord(ch)
